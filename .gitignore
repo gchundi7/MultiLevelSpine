@@ -1,0 +1,14 @@
+# First, ignore everything
+*
+
+# Then, explicitly include the files you want to keep
+!multilevelconnected.py
+!multilevel.py
+!L1-L2.stl
+!L1-T12.stl
+!L1.stl
+!L2.stl
+!T12.stl
+
+# Also include the .gitignore itself
+!.gitignore
