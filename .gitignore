@@ -9,6 +9,7 @@
 !L1.stl
 !L2.stl
 !T12.stl
+!partition.py
 
 # Also include the .gitignore itself
 !.gitignore
